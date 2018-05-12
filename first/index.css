@@ -1,0 +1,24 @@
+body {
+    background-color: lightgrey;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+header {
+  background-color: #444444;
+  width:100%;
+  height: 20vh;
+
+}
+p {
+    background-color: #EFEFEF;
+    margin:0 auto;
+    width: 75%;
+    height: 70vh;
+}
+footer {
+    margin: 0 auto;
+    height: 10vh;
+    background-color: #222222;
+    width: 75%;
+}
