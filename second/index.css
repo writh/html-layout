@@ -1,0 +1,68 @@
+body {
+    margin: 20px;
+}
+
+.top {
+    border: solid;
+    border-color: black;
+    height: 25vh;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.purple-shape {
+    background-color: #7e21bd;
+    height: 150px;
+    width:50px;
+    margin: 10px;
+}
+
+.green-shape {
+    background-color: green;
+    height: 225px;
+    width: 435px;
+    margin: 10px 35px;
+}
+
+.blue-shape {
+    background-color: lightskyblue;
+    height: 225px;
+    width: 225px;
+    margin: 10px 35px;
+    border-radius: 125px;
+}
+
+.middle {
+    border-style: dotted;
+    border-color: black;
+    border-width: 4px;
+    height: 30vh;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.beige-shape {
+    background-color: #fff6c4;
+    height: 200px;
+    width: 95%;
+    margin: 50px;
+    box-shadow: 8px 8px 5px 0px rgba(0,0,0,0.86);
+}
+
+.bottom {
+    margin: auto;
+    outline: 1px solid;
+    outline-color: lightgray;
+    height: 35vh;
+    width: 30%;
+    box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.46);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: midnightblue;
+    font-weight: 200;
+    letter-spacing: .5em;
+}
